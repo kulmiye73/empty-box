@@ -1,0 +1,9 @@
+avg_sales = 0
+
+num_sales1 = int(input())
+num_sales2 = int(input())
+num_sales3 = int(input())
+
+''' Your solution goes here '''
+
+print('Average sales: {:.2f}'.format(avg_sales))
